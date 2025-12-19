@@ -1,0 +1,48 @@
+{
+    "inventory": {
+        "iphone_se": [
+            "Apple iPhone SE",
+            399,
+            13
+        ],
+        "iphone11pro": [
+            "Apple iPhone 11 Pro",
+            999,
+            4
+        ],
+        "pixel4": [
+            "Google Pixel 4",
+            499,
+            8
+        ],
+        "s20": [
+            "Samsung Galaxy S20",
+            999,
+            9
+        ]
+    },
+    "carts": {
+        "Sally": {
+            "iphone11pro": 0,
+            "s20": 1,
+            "iphone_se": 3,
+            "pixel4": 0
+        },
+        "Jane": {
+            "iphone11pro": 1,
+            "s20": 2,
+            "iphone_se": 3,
+            "pixel4": 4
+        },
+        "default": {
+            "iphone_se": 1,
+            "pixel4": 4
+        },
+        "nani": {},
+        "caden": {},
+        "Caden": {
+            "iphone_se": 1,
+            "pixel4": 4
+        }
+    }
+}
